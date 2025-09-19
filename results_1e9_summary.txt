@@ -1,0 +1,10 @@
+Running Hotspot analysis...
+
+Running Gamma estimator trajectory analysis...
+
+Results for X up to 1e+09:
+
+Max Z-score (Hotspot Significance): 2.9445
+Standard Gamma Estimator Variance: 1.824512806e-02
+Optimized Gamma Estimator Variance: 1.175102809e-02
+Variance Reduction Factor: 1.55x
